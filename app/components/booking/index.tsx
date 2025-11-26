@@ -116,7 +116,7 @@ export default function Booking() {
 
           <button
             type="submit"
-            className="inline-block border border-white py-3 px-8 rounded-full  transition w-full text-center"
+            className="inline-block border border-white py-3 px-8 rounded-full  transition w-full text-center cursor-pointer"
           >
             Submit
           </button>
